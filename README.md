@@ -4,4 +4,4 @@ Convert your steno dictionary into raw form. For example, instead of `"KAUPB/TPA
 
 To run the script, you must have Node and babel-node installed (`npm install -g babel-cli`).
 
-Then run as `babel-node stenoToRaw.js ~/path/to/dict.json`. You will get an output in the current directory as `./dict_raw.json`.
+Then run as `babel-node stenoToRaw.js ~/path/to/dict.json`. You will get an output in the current directory as `./raw-dict.json`.
